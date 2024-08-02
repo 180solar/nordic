@@ -389,7 +389,7 @@ export const translateData = [
         },
 
         services: {
-            title: 'Una gama de servicios a su alcance u para su tranquilidad',
+            title: 'Una gama de servicios a su alcance  para su tranquilidad',
             subTitle: 'SERVICIOS',
             desc: 'Garantizamos una experiencia sin complicaciones mientras maximizamos sus beneficios fiscales y le proporcionamos la seguridad financiera que merece. Con NordicConnect Pro, su tranquilidad fiscal está a solo un clic de distancia.',
             btnText: 'Descubre nuestras tarifas',

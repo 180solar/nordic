@@ -12,7 +12,7 @@ export const translateData = [
         },
 
         line: {
-            text: ['Conectando tus oportunidades globales: Asesoramiento', 'fiscal, idiomas, inversiones y finanzas.']
+            text: ['Connecting your global opportunities: Consulting, tax, languages, investments and finance.']
         },
 
         contacts: {
@@ -35,7 +35,7 @@ export const translateData = [
         },
 
         line: {
-            text: ['Conectando tus oportunidades globales: Asesoramiento', 'fiscal, idiomas, inversiones y finanzas.']
+            text: ['Anslut dina globala möjligheter: Råd', 'skatt, språk, investeringar och finans']
         },
 
         contacts: {

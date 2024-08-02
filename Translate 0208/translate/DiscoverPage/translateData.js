@@ -13,7 +13,7 @@ export const translateData = [
         realEstate: {
             title: 'Simplify the complexity of tax regulations',
             subTitle: 'ABOUT US',
-            text1: 'Our international tax advisory service is designed to simplify the complexity of tax regulations in the UK and Scandinavia. From strategic tax planning to file tax returns, our team of experts is committed to optimizing your tax situation. We ensure a hassle-free experience while maximizing your tax benefits and providing you with the financial peace of mind you deserve. With NordicConnect Pro, your tax peace of mind is just a click away.',
+            text1: 'Our international tax advisory service is designed to simplify the complexity of tax regulations in the UK, EU and Scandinavia. From strategic tax planning to file tax returns, our team of experts is committed to optimizing your tax situation. We ensure a hassle-free experience while maximizing your tax benefits and providing you with the financial peace of mind you deserve. With NordicConnect Pro, your tax peace of mind is just a click away.',
         },
 
         services: {
@@ -32,7 +32,7 @@ export const translateData = [
                     id: '2',
                     Icon: PlaningIcon,
                     title: 'Language and Translation Services',
-                    desc: 'Facilitate global communication with our Language and Translation Services.'
+                    desc: 'Make easier global communication with our Language and Translation Services.'
                 },
                 {
                     id: '3',
@@ -145,7 +145,7 @@ export const translateData = [
         equipment: {
             title: 'Countries Coverage',
             subTitle: 'TEAM',
-            desc: 'We have a network of tax experts in over a dozen of  countries, allowing us to offer advice with in-depth knowledge of local laws and regulations.',
+            desc: 'We have a network of tax experts in over a dozen countries, allowing us to offer advice with in-depth knowledge of local laws and regulations.',
             items: [
                 {
                     id: '1',
@@ -378,8 +378,8 @@ export const translateData = [
         code: 'es',
 
         main: {
-            title: ['Descubra la', 'tranquilidad financiera'],
-            btnText: 'Descubre mas'
+            title: ['Descubre la', 'tranquilidad financiera'],
+            btnText: 'Descubre más'
         },
 
         realEstate: {

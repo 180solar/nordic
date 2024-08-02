@@ -6,15 +6,15 @@ export const translateData = [
             rememberPass: 'Forgot your password?',
             subTitle: ['FILL IN THE DETAILS / ', 'STEP 1'],
             title: 'Welcome to Our Consultancy Service',
-            desc: 'Please fill out the form carefully and make sure to review all the information before submitting. If you have any questions or need additional assistance, do not hesitate to contact us.',
+            desc: 'Please fill out the form carefully and review all the information before submitting. If you have any questions or need additional assistance, do not hesitate to contact us.',
             input4: 'Email',
             input6: 'Password',
             input17: 'Login',
-            link: ['Already have an account?', ' Sign in now']
+            link: ['Don't  have an account?', ' Register  now']
         },
 
         line: {
-            text: ['Conectando tus oportunidades globales: Asesoramiento', 'fiscal, idiomas, inversiones y finanzas.']
+            text: ['Connecting your global opportunities: Consulting, tax, languages, investments and finance.']
         },
 
         contacts: {
@@ -39,7 +39,7 @@ export const translateData = [
         },
 
         line: {
-            text: ['Conectando tus oportunidades globales: Asesoramiento', 'fiscal, idiomas, inversiones y finanzas.']
+            text: ['Anslut dina globala möjligheter: Råd', 'skatt, språk, investeringar och finans']
         },
 
         contacts: {
@@ -60,7 +60,7 @@ export const translateData = [
             input4: 'Email ',
             input6: 'Contraseña',
             input17: 'Contratar y Pagar ',
-            link: ['Ya tiene una cuenta  ?', ' Accede ahora']
+            link: ['No tiene una cuenta  ?', ' Registrate  ahora']
         },
 
         line: {

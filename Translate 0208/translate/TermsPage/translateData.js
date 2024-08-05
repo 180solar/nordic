@@ -3,12 +3,12 @@ export const translateData = [
         code: 'gb',
 
         main: {
-            title: ['', '']
+         title: ['Privacy Policy of ', 'Nordic Connect']
         },
 
         infoData: {
             type: 'terms',
-            title: '',
+            title: 'I. PRIVACY AND DATA PROTECTION POLICY',
             desc: ''
         },
 
@@ -23,12 +23,12 @@ export const translateData = [
         code: 'sv',
         
         main: {
-            title: ['', '']
+            title: ['Sekretesspolicy', 'Nordic Connect']
         },
 
         infoData: {
             type: 'terms',
-            title: '',
+            titel: 'Jag. SEKRETESS- OCH DATASKYDDSPOLICY',
             desc: ''
         },
 
